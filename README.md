@@ -1,4 +1,4 @@
-# Destiny 2/SDR mara sov's bath water
+Mara sov's bath water
 
 ## Download
 #### Clone repo or run this command: 
